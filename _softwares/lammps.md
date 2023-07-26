@@ -1,7 +1,8 @@
 ---
 title: 'lammps'
 date: 2015-08-14
-permalink: /softwore/
+collection: softwares
+permalink: /softwore/lammps
 tags:
   - cool posts
   - category1

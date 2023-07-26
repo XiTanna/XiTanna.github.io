@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Blog Post number 4'
+date: 2015-08-14
+permalink: /posts/test
 tags:
   - cool posts
   - category1
