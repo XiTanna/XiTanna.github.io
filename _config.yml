@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Xi Tan"
-  avatar           : "xitan.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "avatar.png"
+  bio              : "Master student, School of Energy and Power Engineering, Huazhong University of Science and Technology"
   location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/XiTanna"
+  github           : "XiTanna"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/xitan_ms"
+  twitter          : "xitan_ms"
   vine             :
   weibo            :
   xing             :

@@ -10,10 +10,10 @@ main:
     url: /awards/    
     
   - title: "Talk slides"
-    url: /talk slides/
+    url: /talk-slides/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
     
   - title: "CV"
     url: /cv/
