@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xi Tan's website"
 title_separator          : "-"
 name                     : &name "Xi Tan"
-description              : &description "B.S., Molecular Modeling of Electrochemical Interfaces"
+description              : &description "M.S., Molecular Modeling of Electrochemical Interfaces"
 url                      : https://xitanna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/XiTanna/XiTanna.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xi Tan"
   avatar           : "avatar.png"
-  bio              : "Master student, School of Energy and Power Engineering, Huazhong University of Science and Technology"
+  bio              : "M.S., School of Energy and Power Engineering, Huazhong University of Science and Technology"
   location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
