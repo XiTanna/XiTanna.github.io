@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xi Tan's website"
 title_separator          : "-"
 name                     : &name "Xi Tan"
-description              : &description "personal description"
+description              : &description "B.S., Molecular Modeling of Electrochemical Interfaces"
 url                      : https://xitanna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/XiTanna/XiTanna.github.io"
@@ -187,7 +187,18 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  submitted:
+    output: true
+    permalink: /:collection/:path/ 
+  cv:
+    output: true
+    permalink: /:collection/:path/
+  softwores:
+    output: true
+    permalink: /:collection/:path/
+  blog-post:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -244,6 +255,42 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+   # _submitted papers
+  - scope:
+      path: ""
+      type: submitted
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+   # _softwares
+  - scope:
+      path: ""
+      type: softwares
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true    
+   # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true     
+   # _blog-post
+  - scope:
+      path: ""
+      type: blog-post
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true       
 
 # Sass/SCSS
 sass:
