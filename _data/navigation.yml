@@ -1,5 +1,6 @@
 # main links links
 main:
+
   - title: "Publications"
     url: /publications/
 
@@ -9,7 +10,7 @@ main:
   - title: "Awards"
     url: /awards/    
     
-  - title: "Talk slides"
+  - title: "Talk Slides"
     url: /talks/
         
   - title: "Blog Posts"

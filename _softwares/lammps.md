@@ -2,7 +2,7 @@
 title: 'lammps'
 date: 2015-08-14
 collection: softwares
-permalink: /softwores/lammps
+permalink: /softwares/lammps
   - cool posts
   - category1
   - category2
