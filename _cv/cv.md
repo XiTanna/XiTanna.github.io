@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 collection: cv
-permalink: /cv/cv
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+collection: cv
+permalink: /cv/cv
 author_profile: true
 redirect_from:
   - /resume
@@ -11,49 +12,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Nanjing Normal University (NJNU), September 2018 – June 2022
+* M. in Nanyang Technological University (HUST), August 2022
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2022 – Present:
+  * 
+  * Editor-in-Chief: Prof.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* September 2018 – June 2021
+  * 
+  * Mentor: Prof.Web: 
 
-Publications
+
+Published Papers
 ======
-  <ul>{% for post in site.publications %}
+
+
+
+Submitted Papers
+======
+  <ul>{% for post in site.submitted %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+
+
+Skills and Hobbies:
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Skills:
+	* Matlab: Developed several Monte-Carlo simulation algorithms to demonstrate the accuracy of the derived expressions while doing wireless communications research.
+	* Mathematica: Presented a tractable Mathematica program to calculate the extended generalized bivariate Meijer G-function.
+	* LabVIEW: Developed an algorithm of cyclic coding and decoding.
+	* C: Developed a system to manage student information including personal information and course grades.
+	* Python: Developed an algorithm to compress text using Huffman coding and developed a GUI. Used to calculate the multivariable Fox’s H-function.
+	* CARLA Simulation: Created virtual experiment environment to support development, training, and validation of autonomous driving systems.
+* Hobbies:
+	* Table Tennis, Basketball, Badminton, Ukulele and Drawing.
+	* Participated in 46 volunteer activities (234 hours).
+

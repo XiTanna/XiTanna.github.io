@@ -193,10 +193,10 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-  softwores:
+  softwares:
     output: true
     permalink: /:collection/:path/
-  blog-post:
+  blog-posts:
     output: true
     permalink: /:collection/:path/
 
