@@ -10,7 +10,7 @@ main:
     url: /awards/    
     
   - title: "Talk slides"
-    url: /talk-slides/
+    url: /talks/
         
   - title: "Blog Posts"
     url: /blog-posts/
