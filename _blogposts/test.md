@@ -2,8 +2,8 @@
 layout: single
 title: 'test'
 date: 2022-06-01
-collection: blog-posts
-permalink: /blog-posts/test
+collection: blogposts
+permalink: /blogposts/test
 tags:
   - CMU
   - Chiang Mai

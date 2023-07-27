@@ -193,7 +193,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/  
-  blog-posts:
+  blogposts:
     output: true
     permalink: /:collection/:path/    
   cv:
@@ -285,10 +285,10 @@ defaults:
       author_profile: true
       share: true
       comment: true     
-   # _blog-post
+   # _blogposts
   - scope:
       path: ""
-      type: blog-posts
+      type: blogposts
     values:
       layout: single
       author_profile: true
