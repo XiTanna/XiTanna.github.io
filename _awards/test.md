@@ -1,12 +1,16 @@
 ---
 layout: archive
 title: "Exemplary Reviewer of the IEEE TRANSACTIONS ON COMMUNICATIONS"
+date: 2015-08-14
 collection: awards
 permalink: /awards/test
-author_profile: true
-redirect_from:
-  - /resume
+  - cool posts
+  - category1
+  - category2
+
 ---
+
+
 
 Exemplary Reviewers in 2021:
 

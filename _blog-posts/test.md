@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: 'test'
 date: 2022-06-01
 collection: blog-posts
@@ -15,5 +16,4 @@ Some Photos
 ======
 
 Chiang Mai University (CMU)
-
 
