@@ -1,7 +1,7 @@
 ---
-title: 'Travel: Thailand'
+title: 'test'
 date: 2022-06-01
-collection: 'blog-posts'
+collection: blog-posts
 permalink: /blog-posts/test
 tags:
   - CMU
@@ -15,3 +15,5 @@ Some Photos
 ======
 
 Chiang Mai University (CMU)
+
+
