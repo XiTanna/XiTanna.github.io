@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 'test'
 date: 2022-06-01
 collection: blogposts

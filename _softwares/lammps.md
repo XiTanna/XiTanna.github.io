@@ -1,5 +1,5 @@
 ---
-title: 'lammps'
+title: 'lammpstest'
 date: 2015-08-14
 collection: softwares
 permalink: /softwares/lammps
