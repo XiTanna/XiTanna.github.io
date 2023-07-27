@@ -14,7 +14,7 @@ main:
     url: /talks/
         
   - title: "Blog Posts"
-    url: /blog-posts/
+    url: /blogposts/
     
   - title: "CV"
     url: /cv/
