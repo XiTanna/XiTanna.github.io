@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae"
 collection: cv
 permalink: /cv/
@@ -31,11 +31,14 @@ Published Papers
 
 
 
+
+
 Submitted Papers
 ======
-  <ul>{% for post in site.submitted %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+
+
 
 Awards
 ======
