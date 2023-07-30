@@ -11,9 +11,9 @@ title                    : "Xi Tan's website"
 title_separator          : "-"
 name                     : &name "Xi Tan"
 description              : &description "M.S., Molecular Modeling of Electrochemical Interfaces"
-url                      : https://xitanna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xitanna.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/XiTanna/XiTanna.github.io"
+repository               : "XiTanna/XiTanna.github.io.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -314,7 +314,8 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 
 # Plugins

@@ -14,4 +14,4 @@ Spend a happy June in Thailand!
 Some Photos
 ======
 
-Chiang Mai University (CMU)
+Chiang Mai University (CMU)   202922222
