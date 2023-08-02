@@ -4,6 +4,7 @@ title: "Exemplary Reviewer of the IEEE TRANSACTIONS ON COMMUNICATIONS"
 date: 2015-08-14
 collection: awards
 permalink: /awards/test
+thumbnail: /images/avatar.png
   - cool posts
   - category1
   - category2

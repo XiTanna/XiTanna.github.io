@@ -3,6 +3,7 @@ title: 'lammps'
 date: 2015-08-14
 collection: softwares
 permalink: /softwares/lammps
+thumbnail: /images/avatar.png
   - cool posts
   - category1
   - category2

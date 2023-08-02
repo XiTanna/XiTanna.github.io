@@ -6,7 +6,7 @@ date: 2022-08-01
 venue: 'Arxiv'
 paperurl: 'waiting'
 citation: 'xxx'
-thumbnail: /images/papers/semss1.png
+thumbnail: /images/avatar.png
 ---
 
 waiting!!!
