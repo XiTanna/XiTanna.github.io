@@ -239,6 +239,8 @@ figcaption {
   color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
   font-size: $type-size-6;
+  font-weight: bold; /* add this line */
+  text-align: center; /* add this line */
 
   a {
     color: inherit;
@@ -314,13 +316,3 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-figure img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-figcaption {
-  text-align: center;
-  font-weight: bold;
-}
