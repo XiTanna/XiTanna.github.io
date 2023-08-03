@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "Waiting!!!"
 collection: submitted
 permalink: /submitted/test
 date: 2022-08-01

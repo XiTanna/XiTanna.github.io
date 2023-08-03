@@ -4,11 +4,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Submitted"
-    url: /submitted/    
+#  - title: "Submitted"
+#    url: /submitted/    
 
-  - title: "Awards"
-    url: /awards/    
+#  - title: "Awards"
+#    url: /awards/    
     
   - title: "Talk Slides"
     url: /talks/
@@ -19,5 +19,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Softwares"
-    url: /softwares/
+#  - title: "Softwares"
+#    url: /softwares/
