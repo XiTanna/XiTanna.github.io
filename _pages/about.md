@@ -19,7 +19,7 @@ My  research  is primarily centered around the nanoscale heat transport behavior
 News
 ======
 1. [Jul/2023] We created the website for the first time.
-1. [Jul/2023] We posted a blog about NEP machine learning potential training in room temperature water.
+1. [Jul/2023] We posted a blog about [NEP machine learning potential training in room temperature water](https://xitanna.github.io/blogposts/water-20230802/water-20230802).
 
 ---
 
