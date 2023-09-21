@@ -31,9 +31,7 @@ Published Papers
 
 **[Google Scholar personal academic profile](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AP6z3ObibXgGh3YvQVc5OuYR559BflnkemWmuPMQxAdLl9IPljZC-2SQhDSyjjEYFyOD6G259gb58NzmhvdxXakpwU9qqj0&user=0Mn4_mIAAAAJ)**
 
-1.Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, *The Journal of Chemical Physics*, **2023**, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729) (IF: 4.4) **Editor's Picks**
-
-
+1.Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, *The Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729) (IF: 4.4) **Editor's Picks**
 
 
 
