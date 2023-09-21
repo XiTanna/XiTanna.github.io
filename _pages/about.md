@@ -20,12 +20,14 @@ News
 ======
 1. [Jul/2023] We created the website for the first time.
 1. [Jul/2023] We posted a blog about [NEP machine learning potential training in room temperature water](https://xitanna.github.io/blogposts/water-20230802/water-20230802).
+1. [Sep/2023] We posted a blog about [NEP Machine Learning Potential Training for NiHAB Metal-organic framework](https://xitanna.github.io/blogposts/NiHAB-MOF-20230902/NiHAB-MOF-20230902).
+1. [Sep/2023] We published a review paper on [Molecular dynamics simulations of electrochemical interfaces](https://xitanna.github.io/publications/jcp_review_cpm) in The Journal of Chemical Physics. 
 
 ---
 
 Selected Publications
 ======
-1. Waiting fo do.
+1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, *The Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729) (IF: 4.4) **Editor's Picks**
 
    
 
