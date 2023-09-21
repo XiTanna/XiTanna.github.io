@@ -27,7 +27,7 @@ News
 
 Selected Publications
 ======
-1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, *The Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729) (IF: 4.4) **Editor's Picks**
+1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, The Journal of Chemical Physics, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729) (IF: 4.4) **Editor's Picks**
 
    
 
