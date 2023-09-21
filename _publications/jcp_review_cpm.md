@@ -12,4 +12,4 @@ This review comprehensively examines **molecular dynamics simulations of electro
 
 [Download paper here.](https://pubs.aip.org/aip/jcp/article/159/9/091001/2909729)
 
-Recommended citation: Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, *The Journal of Chemical Physics*, 2023, 159(9), 091001. 
+Recommended citation: Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, The Journal of Chemical Physics, 2023, 159(9), 091001. 
