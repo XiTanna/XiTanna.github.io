@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.S. in Nanjing Normal University (NNU), September 2018 – June 2022
-* M.S. in Huazhong University of Science and Technology (HUST), September 2022
+* M.S. in Huazhong University of Science and Technology (HUST), September 2022 – Present
 
 Experience
 ======
@@ -44,4 +44,4 @@ Skills and Hobbies:
 	* **VASP**: Furnished AIMD and DFT static calculations essential for training machine learning potentials.
 * Hobbies:
 	* Competitive Games.
-	* travel, movie watching.
+	* Travel.
