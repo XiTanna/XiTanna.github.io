@@ -51,23 +51,7 @@ Academic Services
 
 ***
 
-<!--gitalk js code start-->
-<div id="gitalk-container"></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-<script type="text/javascript">
-      var gitalk = new Gitalk({
-        id: window.location.pathname,
-        clientID: '5fbcb7d68ebe52262266',
-        clientSecret: '4603a32480ccef66119dbf7eb6dbdad539246944',
-        repo: 'XiTanna.github.io',
-        owner: 'XiTanna',
-        admin: ['XiTanna'],
-        distractionFreeMode: false
-      });
-      gitalk.render('gitalk-container');
-</script>
-<!--gitalk js code end-->
+
 
 
 
