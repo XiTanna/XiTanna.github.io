@@ -60,7 +60,7 @@ Academic Services
         id: window.location.pathname,
         clientID: '5fbcb7d68ebe52262266',
         clientSecret: '07c258ed29e14baa75e570d9522ad28459df1e71',
-        repo: 'XiTanna/XiTanna.github.io',
+        repo: 'XiTanna.github.io',
         owner: 'XiTanna',
         admin: ['XiTanna'],
         distractionFreeMode: false
@@ -68,6 +68,9 @@ Academic Services
       gitalk.render('gitalk-container');
 </script>
 <!--gitalk js code end-->
+
+
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434'></script>
