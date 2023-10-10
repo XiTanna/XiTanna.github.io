@@ -51,4 +51,4 @@ Academic Services
 
 ***
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=n&d=9r_p46Ijorlwx2n68MARRySVjg1N4XSqArSzELC-UFw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434"></script>
