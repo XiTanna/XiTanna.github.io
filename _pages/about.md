@@ -51,4 +51,25 @@ Academic Services
 
 ***
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434'></script>
+<!--gitalk js code start-->
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script type="text/javascript">
+      var gitalk = new Gitalk({
+        id: window.location.pathname,
+        clientID: '5fbcb7d68ebe52262266',
+        clientSecret: '07c258ed29e14baa75e570d9522ad28459df1e71',
+        repo: 'XiTanna/XiTanna.github.io',
+        owner: 'XiTanna',
+        admin: ['XiTanna'],
+        distractionFreeMode: false
+      });
+      gitalk.render('gitalk-container');
+</script>
+<!--gitalk js code end-->
+
+
+<div style="width: 450px; height: 450px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434"></script>
+</div>
