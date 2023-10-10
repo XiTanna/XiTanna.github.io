@@ -59,7 +59,7 @@ Academic Services
       var gitalk = new Gitalk({
         id: window.location.pathname,
         clientID: '5fbcb7d68ebe52262266',
-        clientSecret: '07c258ed29e14baa75e570d9522ad28459df1e71',
+        clientSecret: '4603a32480ccef66119dbf7eb6dbdad539246944',
         repo: 'XiTanna.github.io',
         owner: 'XiTanna',
         admin: ['XiTanna'],
