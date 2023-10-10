@@ -70,6 +70,4 @@ Academic Services
 <!--gitalk js code end-->
 
 
-<div style="width: 450px; height: 450px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434"></script>
-</div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434'></script>
