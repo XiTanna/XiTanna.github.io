@@ -19,7 +19,7 @@ Education
 Experience
 ======
 * July 2022 – Present:
-  * Research Assistant in Nanjing Normal University
+  * Research Assistant in Huazhong University of Science and Technology
   * Mentor: **Prof. [Guang Feng](http://itp.energy.hust.edu.cn/info/1003/1024.htm)**
 * September 2018 – June 2022
   * Research Assistant in Nanjing Normal University
@@ -43,5 +43,4 @@ Skills and Hobbies:
 	* **GPUMD/DeepMD**: Undertook machine learning potential training for the reaction at the electrochemical solid-liquid interface and molecular dynamics simulation research on related chemical reaction mechanisms. (For instance, the pseudocapacitive supercapacitor composed of KOH solution and NiHAB MOF).
 	* **VASP**: Furnished AIMD and DFT static calculations essential for training machine learning potentials.
 * Hobbies:
-	* Competitive Games.
 	* Travel.
