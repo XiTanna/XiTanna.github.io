@@ -1,0 +1,19 @@
+---
+title: "Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?"
+collection: publications
+permalink: /publications/jec_research_ccm_cpm
+date: 2023-09-21
+venue: 'AEM'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095495624001694'
+citation: 'Liang Zeng, Xi Tan, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers? Journal of Energy Chemistry, 2024, 94, 54.'
+thumbnail: /images/paper3_JEC_CCM_CPM.jpeg
+---
+Molecular simulation can accurately depict the atomic-level interface structure of the electric double layer and its dynamic formation process, becoming an essential tool in exploring related fields. In the molecular simulation of the electric double layer, describing electrode polarization is crucial. Constant charge method (CCM) and constant potential method (CPM) are two important approaches. The constant charge method achieves electrode polarization by uniformly distributing charge on the electrode surface, which makes it easier to use and requires fewer computational resources, thus being widely utilized in relevant research. However, the constant charge method does not ensure the physical essence of the electrode being at a constant potential, making it theoretically less accurate. In contrast, the constant potential method maintains the electrode at a constant potential through dynamic changes in electrode atomic charges, aligning more closely with real conditions and yielding more accurate results. However, due to the real-time accurate solution of electrode atomic charges, the constant potential method requires nearly an order of magnitude more computational resources.
+
+Existing work indicates that in some scenarios, the theoretically less accurate constant charge method can yield results nearly identical to those of the constant potential method. However, in other simulations, the constant charge method may produce results significantly deviating from physical reality. Currently, there are no clear guidelines on when the less resource-demanding constant charge method can approximate the constant potential method, or in which situations the constant potential method must be used.
+
+In this study, we conducted a series of equilibrium and non-equilibrium simulations of charging and discharging processes driven by voltage/current for different electrode-electrolyte double layer systems. We systematically compared and analyzed the constant charge and constant potential simulations. The results indicate that for open electrode systems with electrolytes such as ionic liquids and conventional concentration aqueous solutions, the constant charge method can capture the equilibrium double layer structure and the current-driven charging and discharging processes consistent with those obtained by the constant potential method. However, for simulations involving nanoconfinement effects, organic solvents, and high-concentration aqueous solutions (especially under high voltage conditions), and voltage-driven charging and discharging processes, the constant charge method distorts the results and must be replaced by the constant potential method. This work provides guidance on the selection of methods for molecular simulation of double layer systems, considering accuracy and computational efficiency.
+
+[Download paper here.](https://www.sciencedirect.com/science/article/pii/S2095495624001694)
+
+Recommended citation: Liang Zeng, **Xi Tan**, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers? *Journal of Energy Chemistry*, 2024, 94, 54.
