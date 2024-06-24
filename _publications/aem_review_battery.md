@@ -2,7 +2,7 @@
 title: "Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations"
 collection: publications
 permalink: /publications/aem_review_battery
-date: 2023-09-21
+date: 2023-03-19
 venue: 'AEM'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/aenm.202400564'
 citation: '3.	Xi Tan, Ming Chen, Jinkai Zhang, Shiqi Li, Huajie Zhang, Long Yang, Tian Sun, Xin Qian*, Guang Feng*, Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations, *Advanced Energy Materials*, 2024, 14, 2400564.'

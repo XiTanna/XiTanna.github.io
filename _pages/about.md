@@ -25,7 +25,7 @@ News
 1. [Mar/2024] We published a review paper on [Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations](https://xitanna.github.io/publications/aem_review_battery) in *Advanced Energy Materials*. 
 1. [Mar/2024] We published a research paper on [Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?](jec_research_ccm_cpm) in *Journal of Energy Chemistry*. 
 1. [Apr/2024] We published a review paper on [Progress on understanding heat generation of electrical double layers](https://www.sciencedirect.com/science/article/pii/S2451910324000644) in *Current Opinion in Electro-chemistry*. 
-1. [Jun/2024] We published a research paper on [Unlocking dynamic solvation chemistry and hydrogen evolution mechanism in aqueous zinc batteries]([Unlocking Dynamic Solvation Chemistry and Hydrogen Evolution Mechanism in Aqueous Zinc Batteries | Journal of the American Chemical Society (acs.org)](https://pubs.acs.org/doi/10.1021/jacs.4c02558)) in *Journal of the American Chemical Society*. 
+1. [Jun/2024] We published a review paper on [Unlocking dynamic solvation chemistry and hydrogen evolution mechanism in aqueous zinc batteries](https://pubs.acs.org/doi/10.1021/jacs.4c02558) in *Journal of the American Chemical Society*. 
 1. [Jun/2024] We developed a LAMMPS interface to integrate MLPs with other force fields, such as Lennard-Jones and Tersoff potentials, enhancing simulation speed and accuracy. The open-source code can be found [here](https://github.com/XiTanna/ML-NEP-LAMMPS).
 
 ---
@@ -46,13 +46,17 @@ Selected Publications
 
 Awards
 ======
-| 2024 | First-class  scholarship of Huazhong University of Science and Technology (Top 10%) |
-| ---- | ------------------------------------------------------------ |
-| 2023 | Second-class scholarship of Huazhong  University of Science and Technology (Top 15%) |
-| 2022 | First-class  scholarship of Huazhong University of Science and Technology (Top 10%) |
-| 2020 | 12th  “Challenge Cup” national college students’ entrepreneurship plan  competition (Top 1 in NNU) |
+1. 2024	First-class scholarship of Huazhong University of Science and Technology (Top 10%)
+2. 2023	Second-class scholarship of Huazhong University of Science and Technology (Top 15%)
+3. 2022	First-class scholarship of Huazhong University of Science and Technology (Top 10%)
+4. 2020	12th “Challenge Cup” national college students’ entrepreneurship plan competition (Top 1 in NNU)
 
 ---
+
+
+======
+
+
 
 ***
 
