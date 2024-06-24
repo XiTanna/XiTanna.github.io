@@ -3,7 +3,7 @@ title: "Constant charge method or constant potential method: Which is better for
 collection: publications
 permalink: /publications/jec_research_ccm_cpm
 date: 2024-03-06
-venue: 'AEM'
+venue: 'JEC'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095495624001694'
 citation: 'Liang Zeng, Xi Tan, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers? Journal of Energy Chemistry, 2024, 94, 54.'
 thumbnail: /images/paper3_JEC_CCM_CPM.jpeg

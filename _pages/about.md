@@ -38,7 +38,7 @@ Selected Publications
 
 1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
 
-1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, The Journal of Chemical Physics, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  **Editor's Picks**
+1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, The Journal of Chemical Physics, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  
 
    
 
