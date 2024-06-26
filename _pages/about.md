@@ -32,13 +32,13 @@ News
 
 Selected Publications
 ======
-1. **Xi Tan,** Ming Chen, Jinkai Zhang, Shiqi Li, Huajie Zhang, Long Yang, Tian Sun, Xin Qian*, Guang Feng*. Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations, *Advanced Energy Materials*, 2024, 14, 2400564. [Linkage](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202400564)
+1. **Xi Tan,** Ming Chen, Jinkai Zhang, Shiqi Li, Huajie Zhang, Long Yang, Tian Sun, Xin Qian* , Guang Feng*.  Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations, *Advanced Energy Materials*, 2024, 14, 2400564. [Linkage](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202400564)
 
-1. Liang Zeng, **Xi Tan**, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?  Journal of Energy Chemistry*, 2024, 94, 54. [Linkage](https://www.sciencedirect.com/science/article/pii/S2095495624001694?via%3Dihub)
+1. Liang Zeng, **Xi Tan**, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?  *Journal of Energy Chemistry*, 2024, 94, 54. [Linkage](https://www.sciencedirect.com/science/article/pii/S2095495624001694?via%3Dihub)
 
-1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng*. Progress on understanding heat generation of electrical double layers, Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
+1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
 
-1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  
+1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*. Molecular dynamics simulations of electrochemical interfaces, *Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  
 
    
 
@@ -47,20 +47,20 @@ Selected Publications
 Awards
 ======
 1. 2024	First-class scholarship of Huazhong University of Science and Technology (Top 10%)
+
 2. 2023	Second-class scholarship of Huazhong University of Science and Technology (Top 15%)
+
 3. 2022	First-class scholarship of Huazhong University of Science and Technology (Top 10%)
+
 4. 2020	12th “Challenge Cup” national college students’ entrepreneurship plan competition (Top 1 in NNU)
 
----
-
-
-======
-
-
+   
 
 ***
 
->*“The first sight is better than the last.”*
+>*“吹灭读书声，一身都是月。”*
+>
+>*“书声半窗月，花影一帘风。”*
 
 ***
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
@@ -69,6 +69,7 @@ Awards
 <!--gitalk js code start-->
 <div id="gitalk-container"></div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <script type="text/javascript">
       var gitalk = new Gitalk({
