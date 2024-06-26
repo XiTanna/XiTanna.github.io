@@ -38,7 +38,7 @@ Selected Publications
 
 1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng\*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
 
-1. Xiaoyu Yu#, Ming Chen#, Zhengang Li, **Xi Tan**, Haitang Zhang, Junhao Wang, Yonglin Tang, Juping Xu, Wen Yin, Yang Yang, Dongliang Chao, Fei Wang, Yeguo Zou\*, Guang Feng\*, Yu Qiao\*, Haoshen Zhou, and Shi-Gang Sun. Unlocking Dynamic Solvation Chemistry and Hydrogen Evolution Mechanism in Aqueous Zinc Batteries, Journal of the American Chemical Society, 2024. [Linkage](https://pubs.acs.org/doi/10.1021/jacs.4c02558)  
+1. Xiaoyu Yu#, Ming Chen#, Zhengang Li, **Xi Tan**, Haitang Zhang, Junhao Wang, Yonglin Tang, Juping Xu, Wen Yin, Yang Yang, Dongliang Chao, Fei Wang, Yeguo Zou\*, Guang Feng\*, Yu Qiao\*, Haoshen Zhou, and Shi-Gang Sun. Unlocking dynamic solvation chemistry and hydrogen evolution mechanism in aqueous zinc batteries, *Journal of the American Chemical Society*, 2024. [Linkage](https://pubs.acs.org/doi/10.1021/jacs.4c02558)  
 
 1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng\*. Molecular dynamics simulations of electrochemical interfaces, *Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  
 

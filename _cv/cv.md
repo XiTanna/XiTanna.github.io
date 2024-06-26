@@ -31,13 +31,14 @@ Selected Publications
 
 **[Google Scholar personal academic profile](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AP6z3ObibXgGh3YvQVc5OuYR559BflnkemWmuPMQxAdLl9IPljZC-2SQhDSyjjEYFyOD6G259gb58NzmhvdxXakpwU9qqj0&user=0Mn4_mIAAAAJ)**
 
-1. **Xi Tan,** Ming Chen, Jinkai Zhang, Shiqi Li, Huajie Zhang, Long Yang, Tian Sun, Xin Qian*, Guang Feng*. Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations, *Advanced Energy Materials*, 2024, 14, 2400564. [Linkage](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202400564)
+1. **Xi Tan,** Ming Chen, Jinkai Zhang, Shiqi Li, Huajie Zhang, Long Yang, Tian Sun, Xin Qian\*, Guang Feng\*.  Decoding electrochemical processes of lithium-ion batteries by classical molecular dynamics simulations, *Advanced Energy Materials*, 2024, 14, 2400564. [Linkage](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202400564)
+1. Liang Zeng, **Xi Tan**, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng\*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers?  *Journal of Energy Chemistry*, 2024, 94, 54. [Linkage](https://www.sciencedirect.com/science/article/pii/S2095495624001694?via%3Dihub)
 
-1. Liang Zeng, **Xi Tan**, Xiangyu Ji, Shiqi Li, Jinkai Zhang, Jiaxing Peng, Sheng Bi, Guang Feng*. Constant charge method or constant potential method: Which is better for molecular modeling of electrical double layers? Journal of Energy Chemistry*, 2024, 94, 54. [Linkage](https://www.sciencedirect.com/science/article/pii/S2095495624001694?via%3Dihub)
+1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng\*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
 
-1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng*. Progress on understanding heat generation of electrical double layers, Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
+1. Xiaoyu Yu#, Ming Chen#, Zhengang Li, **Xi Tan**, Haitang Zhang, Junhao Wang, Yonglin Tang, Juping Xu, Wen Yin, Yang Yang, Dongliang Chao, Fei Wang, Yeguo Zou\*, Guang Feng\*, Yu Qiao\*, Haoshen Zhou, and Shi-Gang Sun. Unlocking dynamic solvation chemistry and hydrogen evolution mechanism in aqueous zinc batteries, *Journal of the American Chemical Society*, 2024. [Linkage](https://pubs.acs.org/doi/10.1021/jacs.4c02558)  
 
-1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng*, Molecular dynamics simulations of electrochemical interfaces, Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  
+1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng\*. Molecular dynamics simulations of electrochemical interfaces, *Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  
 
 
 
