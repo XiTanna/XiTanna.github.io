@@ -38,11 +38,13 @@ Selected Publications
 
 1. Liang Zeng, **Xi Tan**, Nan Huang, Guang Feng\*. Progress on understanding heat generation of electrical double layers, *Current Opinion in Electrochemistry*, 2024, 46, 101503. [Linkage](https://www.sciencedirect.com/science/article/pii/S2451910324000644?via%3Dihub)
 
+   <!--
+
 1. Xiaoyu Yu#, Ming Chen#, Zhengang Li, **Xi Tan**, Haitang Zhang, Junhao Wang, Yonglin Tang, Juping Xu, Wen Yin, Yang Yang, Dongliang Chao, Fei Wang, Yeguo Zou\*, Guang Feng\*, Yu Qiao\*, Haoshen Zhou, and Shi-Gang Sun. Unlocking dynamic solvation chemistry and hydrogen evolution mechanism in aqueous zinc batteries, *Journal of the American Chemical Society*, 2024. [Linkage](https://pubs.acs.org/doi/10.1021/jacs.4c02558)  
 
 1. Liang Zeng, Jiaxing Peng, Jinkai Zhang, **Xi Tan**, Xiangyu Ji, Shiqi Li, Guang Feng\*. Molecular dynamics simulations of electrochemical interfaces, *Journal of Chemical Physics*, 2023, 159(9), 091001. [Linkage](https://doi.org/10.1063/5.0160729)  
 
-   
+   -->
 
 ---
 
@@ -67,8 +69,10 @@ Awards
 ***
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 
+<!--
 
 <!--gitalk js code start-->
+
 <div id="gitalk-container"></div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 
@@ -86,3 +90,5 @@ Awards
       gitalk.render('gitalk-container');
 </script>
 <!--gitalk js code end-->
+
+-->
