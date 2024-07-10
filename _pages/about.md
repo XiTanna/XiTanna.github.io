@@ -60,3 +60,26 @@ Awards
 >*“书声半窗月，花影一帘风。”*
 
 ***
+
+***
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+
+<!--gitalk js code start-->
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script type="text/javascript">
+      var gitalk = new Gitalk({
+        id: window.location.pathname,
+        clientID: '4fdad5e195a0f56c996d',
+        clientSecret: '1aa53c29a77e9cd72885b9b6947a08c0a48d76ee',
+        repo: 'Xitanna_website_comments',
+        owner: 'XiTanna',
+        admin: ['XiTanna'],
+        distractionFreeMode: false
+      });
+      gitalk.render('gitalk-container');
+</script>
+<!--gitalk js code end-->
