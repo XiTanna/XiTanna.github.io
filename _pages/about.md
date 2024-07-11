@@ -75,7 +75,7 @@ Awards
         id: window.location.pathname,
         clientID: '4fdad5e195a0f56c996d',
         clientSecret: '1aa53c29a77e9cd72885b9b6947a08c0a48d76ee',
-        repo: 'Xitanna_website_comments',
+        repo: 'Comments-message-warehouse',
         owner: 'XiTanna',
         admin: ['XiTanna'],
         distractionFreeMode: false
