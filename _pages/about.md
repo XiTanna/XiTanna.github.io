@@ -74,7 +74,7 @@ Awards
       var gitalk = new Gitalk({
         id: window.location.pathname,
         clientID: 'Iv23li2aG8kcQvyeDjeB',
-        clientSecret: '54b5322d5b0a0700e6a2b4bb5695a1e0dc75b146',
+        clientSecret: 'd29c8f67126d66e8621e545b8c6f7fbf9b8ac86d',
         repo: 'Comments-message-warehouse',
         owner: 'XiTanna',
         admin: ['XiTanna'],
