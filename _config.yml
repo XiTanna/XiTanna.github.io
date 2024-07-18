@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xi Tan's website"
+title                    : "Xi Tan's Homepage"
 title_separator          : "-"
 name                     : &name "Xi Tan"
 description              : &description "M.S., Molecular Modeling of Electrochemical Interfaces"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xi Tan"
-  avatar           : "avatar.png"
+  avatar           : "xitan.jpg"
   bio              : "M.S., School of Energy and Power Engineering, Huazhong University of Science and Technology"
   location         : "China"
   employer         :
