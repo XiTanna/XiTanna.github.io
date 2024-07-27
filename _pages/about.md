@@ -43,13 +43,13 @@ Selected Publications
 
 Awards
 ======
-1. 2024	First-class scholarship of Huazhong University of Science and Technology (Top 10%)
+1. 2024	First-Class Scholarship of Huazhong University of Science and Technology (Top 10%)
 
-2. 2023	Second-class scholarship of Huazhong University of Science and Technology (Top 15%)
+2. 2023	Second-Class Scholarship of Huazhong University of Science and Technology (Top 15%)
 
-3. 2022	First-class scholarship of Huazhong University of Science and Technology (Top 10%)
+3. 2022	First-Class Scholarship of Huazhong University of Science and Technology (Top 10%)
 
-4. 2020	12th “Challenge Cup” national college students’ entrepreneurship plan competition (Top 1 in NNU)
+4. 2020	National College Students’ Entrepreneurship Plan Competition (1st Place in Nanjing Normal University)
 
    
 
