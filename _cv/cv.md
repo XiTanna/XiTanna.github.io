@@ -41,7 +41,7 @@ Selected Publications
 
 Skills:
 ======
-* Skills:
+* Molecular Modeling Skills:
 	* **LAMMPS**: Conducted ReaxFF simulation research on oxidation corrosion of supercritical water in iron pipelines during undergraduate studies, with a bachelor's graduation project focused on the mechanism of ReaxFF pseudocapacitor supercapacitors under a constant potential. Presently, conducting molecular simulation research on supercapacitors under a constant potential.
 	* **GROMACS**: Performed potentiostatic empirical potential molecular dynamics simulations on electrochemical solid-liquid interfaces, including Li and Zn aqueous batteries and supercapacitors.
 	* **GPUMD/DeePMD**: Undertook machine learning potential training for the reaction at the electrochemical solid-liquid interface and molecular dynamics simulation research on related chemical reaction mechanisms. (For instance, the pseudocapacitive supercapacitor composed of KOH solution and NiHAB MOF).
