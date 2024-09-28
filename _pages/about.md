@@ -64,6 +64,10 @@ Awards
 ***
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=7iYqof9YSdNk8csggPGf2udgVYg11X0cdVdASEtz434&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 
+<!-- 这里插入显示北京时间的区域 --> <div id="beijing-time" style="font-size: 16px; color: #333; margin-top: 10px;"></div> <!-- 添加显示北京时间的 JavaScript --> <script type="text/javascript">    function displayBeijingTime() {        var now = new Date();        var utcTime = now.getTime() + (now.getTimezoneOffset() * 60000);         var beijingTime = new Date(utcTime + (8 * 60 * 60000)); // 转换为 UTC+8        document.getElementById('beijing-time').textContent = "当前北京时间: " + beijingTime.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });    }     // 页面加载时显示时间    displayBeijingTime();    // 每分钟更新一次时间    setInterval(displayBeijingTime, 60000); </script>
+
+
+
 <!--gitalk js code start-->
 
 <div id="gitalk-container"></div>
