@@ -83,16 +83,6 @@ Awards
 </script>
 <!-- End Matomo Code -->
 
-
-
-<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-2WW9Z5X967"></script> <script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());   gtag('config', 'G-2WW9Z5X967'); </script>
-
-
-
-<div style="display:inline-block;width:400px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=54ty3ipcn3v&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
-
-
-
 <!--gitalk js code start-->
 
 <div id="gitalk-container"></div>
