@@ -83,6 +83,27 @@ Awards
 </script>
 <!-- End Matomo Code -->
 
+
+
+<!-- Default Statcounter code for My_Github_Website https://xitanna.github.io/
+-->
+<script type="text/javascript">
+var sc_project=13041535; 
+var sc_invisible=0; 
+var sc_security="3e94b760"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+Statcounter" href="https://statcounter.com/" target="_blank"><img
+class="statcounter" src="https://c.statcounter.com/13041535/0/3e94b760/0/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+
+
 <!--gitalk js code start-->
 
 <div id="gitalk-container"></div>
