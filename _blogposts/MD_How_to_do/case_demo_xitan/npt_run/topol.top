@@ -1,0 +1,28 @@
+;
+;	File 'acn.top' was generated
+;	By user: wrx (502)
+;	On host: localhost.localdomain
+;	At date: Wed Aug  5 09:38:12 2015
+;
+;	This is your topology file
+;	ACN topology file
+;
+; Include forcefield parameters
+
+#include "FF/ffatomtype.itp"
+#include "FF/GRA.itp"
+#include "FF/Na.itp"
+#include "FF/CLO4.itp"
+#include "FF/SOL.itp"
+
+
+
+[ system ]
+system
+
+[ molecules ]
+Na   80
+CLO4    80
+SOL  4444
+
+

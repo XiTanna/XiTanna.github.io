@@ -1,0 +1,25 @@
+;
+;  SOL Force Filed Topology File
+;
+;from gmx opls  xitan write
+;GO  J. Phys. Chem. C 2015, 119, 26712−26718
+
+
+[ defaults ]
+;nb-type        cb-rule	    g-pairs     FudgeLJ	    FudgeQQ		N
+1               2          no         1            1        
+[ atomtypes ]
+;name   mass(a.m.u)        charge(e)     ptype        v sigma(nm)   w epsilon(kJ/mol)
+OW        15.999            -0.8476       A       0.3166           0.65019
+HW1       1.00794           0.4238        A       0               0
+HW2       1.00794           0.4238        A       0               0
+Na        22.989            +1            A       0.2350          0.54392
+  Cl      35.4500       1.2000    A      0.3500      0.4928   
+  O       15.9990      -0.5500    A      0.2900      0.8786
+grC        12.0110            0           A       3.55000e-01  2.92880e-01
+;liangzeng source
+;grC        12.0110            0           A       0.34            0.35990
+CD        12.0110            0            A       3.55000e-01  2.92880e-01
+OH        12.0110            0            A       3.07000e-01  7.11280e-01
+HH        12.0110            0            A       0			   0
+Au        196.970         0            A       0.26290  22.13336

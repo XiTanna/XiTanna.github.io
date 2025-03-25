@@ -1,0 +1,56 @@
+title		=Define here
+cpp		=/lib/cpp
+constraints               =h-bonds
+integrator                =md
+dt                            =   0.002
+nsteps                     = 10000000
+nstcomm		=0
+nstxout		=0
+nstxtcout                  =500
+nstvout		=0
+nstfout                      =0
+nstlog		=1000
+nstenergy		=100
+;nstcalcenergy           =1
+;nstlist                      = 1
+;Generate velocites is on at 350K
+gen_vel                  =no
+gen_temp              =298
+gen_seed               =173529
+comm_mode         =angular
+
+;
+cutoff-scheme	=Verlet
+ns-type		=grid
+
+verlet-buffer-drift  =  -1
+
+;electrostatic and short range interactions
+coulombtype	=PME
+rvdw		=1.0
+rlist		=1.3
+rcoulomb	                =1.0
+DispCorr             	=EnerPres
+
+ewald-geometry       = 3dc
+;temperature coupling
+Tcoupl		=nose-hoover
+tc-grps                     =system
+tau_t                        =1
+ref_t                         =298 
+;nhchainlength	=1
+
+pcoupl                   = Parrinello-Rahman 
+Pcoupltype	=isotropic
+tau_p		=2
+compressibility	=4.5e-5
+ref_p		=1
+;lincs-iter                  = 6
+userint1   =5000
+userint2   =50000
+;annealing
+;annealing=no  single
+;annealing_npoints= 0  2 
+;annealing-temp=TTT TTT
+;annealing-time=0  300
+

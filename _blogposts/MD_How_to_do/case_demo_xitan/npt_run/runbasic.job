@@ -1,0 +1,18 @@
+#!/bin/sh
+#SBATCH --partition=fast
+#SBATCH --job-name=NaCl-Au-ICS
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=8
+
+ncores=8
+source /share/home/xitan_n/soft/gromacs-2022/bin/GMXRC
+workdir="/share/home/xitan_n/works/heat_generation/Ions_types/NaClO4/mixnpt"
+
+# Run the first gmx mdrun for each V value
+    name1=npt
+    gmx grompp -f npt.mdp -p topol.top -c min.gro -o $name1  -maxwarn 3
+    gmx mdrun -s $name1 -deffnm $name1 -v -ntmpi 1 -ntomp $ncores -pme gpu -pmefft gpu -nb gpu  -tunepme no &
+
+# Wait for all the first gmx mdruns to complete
+wait
+

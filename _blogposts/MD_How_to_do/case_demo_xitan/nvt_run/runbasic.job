@@ -1,0 +1,29 @@
+#!/bin/sh
+#SBATCH --partition=normal
+#SBATCH --job-name=ions-nvt2
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=8
+
+ncores=8
+workdir="/share/home/xitan_n/works/heat_generation/Ions_types/NaClO4/NVT"
+
+# Run the first gmx mdrun for each V value
+    cd "$workdir"
+    name1=nvt1
+    gmx grompp -f grompp.mdp -p topol.top -c start.gro -o $name1 -n index.ndx -maxwarn 3
+    gmx mdrun -s $name1 -deffnm $name1 -v -ntmpi 1 -ntomp $ncores -cpi -pme gpu -pmefft gpu -nb gpu  -tunepme no &
+
+# Wait for all the first gmx mdruns to complete
+wait
+
+# Run the second gmx mdrun for each V value
+
+    cd "$workdir"
+    name2=nvt2
+    rm -rf nvt2.*
+    gmx grompp -f grompp1.mdp -p topol.top -c nvt1.gro -o $name2 -n index.ndx -maxwarn 3
+    gmx mdrun -s $name2 -deffnm $name2 -v -ntmpi 1 -ntomp $ncores -pme gpu -pmefft gpu -nb gpu  -tunepme no &
+
+
+# Wait for all the second gmx mdruns to complete
+wait

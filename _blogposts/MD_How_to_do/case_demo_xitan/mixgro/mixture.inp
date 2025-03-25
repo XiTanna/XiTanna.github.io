@@ -1,0 +1,29 @@
+#
+# A mixture of water and urea
+#
+
+tolerance 2.3
+filetype pdb
+output mixture.pdb
+structure electrode_finall.pdb
+  number 1
+#  center
+  fixed 0 0 0 0 0 0 
+end structure
+
+structure Na.pdb 
+  number 80
+  inside box 0 0 125  38 33 210
+end structure
+
+
+structure CLO4.pdb 
+  number 80
+  inside box 0 0 125  38 33 210
+end structure
+
+
+structure SOL.pdb 
+  number 4444
+  inside box 0 0 125  38 33 210
+end structure

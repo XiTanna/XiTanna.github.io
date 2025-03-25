@@ -1,0 +1,21 @@
+#include "FF/ffatomtype.itp"
+#include "FF/CLO4.itp"
+#include "FF/Na.itp"
+#include "FF/GRA.itp"
+#include "FF/SOL.itp"
+
+
+[ system ]
+; name
+system
+
+[ molecules ]
+EL   512
+ER   512
+GRA   2048
+Na   80
+CLO4   80
+SOL  4444
+
+
+

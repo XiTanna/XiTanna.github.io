@@ -1,0 +1,9 @@
+TITLE     H2O
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   59.863   59.863   59.863  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  OW  SOL  1020      30.740  25.090   5.610  1.00  0.00            
+ATOM      2  HW1 SOL  1020      30.000  25.770   5.580  1.00  0.00            
+ATOM      3  HW2 SOL  1020      30.500  24.360   6.240  1.00  0.00            
+TER
+ENDMDL

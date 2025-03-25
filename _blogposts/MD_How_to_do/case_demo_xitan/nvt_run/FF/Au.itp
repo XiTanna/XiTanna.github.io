@@ -1,0 +1,21 @@
+[ moleculetype ]
+; molname	nrexcl
+EL		1
+[ atoms ]
+;   nr   type  resnr residue  atom   cgnr     charge       mass
+     1    Au      1     EL     Au      1     0.00000      196.970
+	 
+[ moleculetype ]
+; molname	nrexcl
+ER		1
+[ atoms ]
+;   nr   type  resnr residue  atom   cgnr     charge       mass
+     1    Au      1     ER     Au      1     0.00000      196.970
+	 
+[ moleculetype ]
+; molname	nrexcl
+Au		1
+[ atoms ]
+;   nr   type  resnr residue  atom   cgnr     charge       mass
+     1    Au      1     Au     Au      1     0.00000      196.970
+

@@ -1,0 +1,25 @@
+[ moleculetype ]
+; molname	nrexcl
+EL		1
+[ atoms ]
+; id	at type	res nr 	residu name	at name  cg nr	charge   mass
+   1	grC	1	EL		C	 0	0.00	 12.011
+
+
+
+[ moleculetype ]
+; molname	nrexcl
+ER		1
+[ atoms ]
+; id	at type	res nr 	residu name	at name  cg nr	charge   mass
+   1	grC	1	ER		C	 0	0.00	 12.011
+
+
+[ moleculetype ]
+; molname	nrexcl
+GRA		1
+[ atoms ]
+; id	at type	res   nr 	residu name	at name  cg nr	charge   mass
+   1	grC	1	GRA		C	 0	0.00	 12.011
+
+

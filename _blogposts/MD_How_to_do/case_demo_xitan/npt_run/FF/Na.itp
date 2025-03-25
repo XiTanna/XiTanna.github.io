@@ -1,0 +1,11 @@
+[ moleculetype ]
+;Name	nrexcl
+Na    2
+
+
+
+[ atoms ]
+; nr  type  resnr  residue  atom   cgnr  charge    mass
+  1    Na    1        Na     Na    1      +1       22.989 
+
+

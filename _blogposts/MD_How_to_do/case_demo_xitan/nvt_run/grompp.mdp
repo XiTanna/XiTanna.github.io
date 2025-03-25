@@ -1,0 +1,48 @@
+title		=Define here
+cpp		=/lib/cpp
+constraints	=h-bonds
+integrator	=md
+dt		=0.002;ps!
+nsteps          =10000000
+nstcomm		=0
+nstxtcout                = 500
+nstxout		=0
+nstvout		=0
+nstfout         =0
+nstlog		=500
+;Generate velocites is on at 350K
+gen_vel=no
+gen_temp=298
+gen_seed=173529
+
+;
+cutoff-scheme	=Verlet
+ns-type		=grid
+
+;electrostatic and short range interactions
+coulombtype	=PME
+rvdw		=1.2
+rlist		=1.3
+rcoulomb	=1.2
+DispCorr	=EnerPres
+
+verlet-buffer-drift      = -1
+ewald-geometry           = 3dc
+;temperature coupling
+Tcoupl		=nose-hoover
+tc-grps		=electrolyte  electrode 
+tau_t		=1     -1
+ref_t		=298 298
+;nhchainlength	=1
+
+;Pressure coupling is not on
+Pcoupl		=no
+Pcoupltype	=isotropic
+tau_p		=20
+compressibility	=4.5e-5
+ref_p		=1
+lincs-iter               = 6
+freezegrps      = electrode
+freezedim       = Y Y Y 
+userint1         = 1
+userint2        = 10000
