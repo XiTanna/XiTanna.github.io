@@ -13,12 +13,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Nanjing Normal University (NNU), September 2018 – June 2022
-* M.S. in Huazhong University of Science and Technology (HUST), September 2022 – Present
+* B.S., Nanjing Normal University (NNU), September 2018 – June 2022
+* M.S., Huazhong University of Science and Technology (HUST), September 2022 – June 2025
+* Ph.D., Brown University, August 2025 – Present
 
 Experience
 ======
-* October 2021 – Present
+* August 2025 – Present
+  * Research Assistant in Brown University
+  * Mentor: **Prof. [Yue Qi](https://vivo.brown.edu/display/yqi27)**
+* October 2021 – June 2025
   * Research Assistant in Huazhong University of Science and Technology
   * Mentor: **Prof. [Guang Feng](http://itp.energy.hust.edu.cn/info/1003/1024.htm)**
 * September 2018 – June 2022
